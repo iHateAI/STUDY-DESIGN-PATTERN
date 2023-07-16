@@ -5,3 +5,7 @@
 '디자인 패턴의 아름다움'에 등장하는
 Java 코드의 일부를 TypeScript 코드로 작성하였습니다.
 ```
+
+---
+
+[디자인 패턴의 아름다움](https://product.kyobobook.co.kr/detail/S000202093794)
